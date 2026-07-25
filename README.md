@@ -3,8 +3,8 @@
 500 orders. Five payment methods. Eighteen states. One question driving all of it: where is this business actually making money, and where is it just moving volume.
 
 This project follows the data through three stages of a normal analytics pipeline — a relational database built in SQL, exploratory analysis in Python, and a decision-ready dashboard in Power BI — rather than jumping straight from raw CSV to chart.
+<img width="958" height="539" alt="image" src="https://github.com/user-attachments/assets/f1134f58-106e-4139-a45a-605734b82ab1" />
 
-![Dashboard Preview](screenshots/dashboard-overview.png)
 
 ## What this answers
 
